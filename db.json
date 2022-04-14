@@ -1,0 +1,9 @@
+{
+    "categories": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "products": [
+      { "id": 1, "name": "some comment", "categoryId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
